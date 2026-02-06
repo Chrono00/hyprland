@@ -1,10 +1,10 @@
 Neede packages 
 
-tofi
-waybar
-swww
-swengine
-kitty
-cava
-btop
-ranger
+-tofi
+-waybar
+-swww
+-swengine
+-kitty
+-cava
+-btop
+-ranger
