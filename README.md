@@ -7,3 +7,4 @@ swengine
 kitty
 cava
 btop
+ranger
